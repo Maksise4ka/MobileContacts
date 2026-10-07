@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Контакты</string>
+    <string name="permission_denied">Нет доступа к контактам. Выдайте разрешение на контакты в настройках приложения.</string>
+    <string name="no_contacts">Контакты не найдены</string>
+    <string name="unknown">Н/Д</string>
+    <plurals name="contacts_found">
+        <item quantity="one">Найден %d контакт</item>
+        <item quantity="few">Найдено %d контакта</item>
+        <item quantity="many">Найдено %d контактов</item>
+        <item quantity="other">Найдено %d контактов</item>
+    </plurals>
+</resources>

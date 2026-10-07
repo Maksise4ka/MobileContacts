@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Contacts</string>
+    <string name="permission_denied">No access to contacts. Grant the contacts permission in the app settings.</string>
+    <string name="no_contacts">No contacts found</string>
+    <string name="unknown">N/A</string>
+    <plurals name="contacts_found">
+        <item quantity="one">Found %d contact</item>
+        <item quantity="other">Found %d contacts</item>
+    </plurals>
 </resources>
